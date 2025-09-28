@@ -6,8 +6,8 @@ The page includes headings, paragraphs, a list, and an image with a caption.
 CSS is used to add background colors, fonts, spacing, and overall layout formatting.
 
 Files included:
-- index.html
-- styles.css
+- assignment2.html
+- assignment2_style.css
 
 Requirements completed:
 - HTML and CSS validated through W3C validators.
@@ -18,3 +18,4 @@ Requirements completed:
 
 View page using GitHub HTML Previewer:
 [Insert your GitHub HTML previewer link here after upload]
+
