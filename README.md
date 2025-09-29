@@ -12,11 +12,10 @@ Files:
 
 How to View:
 The webpage can be viewed using the GitHub HTML previewer:
-https://htmlpreview.github.io/?https://github.com/bonezone0707/Assignment-4.1-HTML-and-CSS-Validation/blob/main/assignment2.html
-
-Validation Links:
-- HTML Validator: https://validator.w3.org/
-- CSS Validator: https://jigsaw.w3.org/css-validator/
+[(https://htmlpreview.github.io/?https://github.com/bonezone0707/Assignment-4.1-HTML-and-CSS-Validation/blob/master/assignment2.html)
+Validation Links:](https://htmlpreview.github.io/?https://github.com/bonezone0707/Assignment-4.1-HTML-and-CSS-Validation/blob/master/assignment2.html)
+- HTML Validator: [https://validator.w3.org/](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhtmlpreview.github.io%2F%3Fhttps%3A%2F%2Fgithub.com%2Fbonezone0707%2FAssignment-4.1-HTML-and-CSS-Validation%2Fblob%2Fmaster%2Fassignment2.html)
+- CSS Validator: [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validator/validator)
 
 Assignment Requirements:
 Create an HTML file and make it look better with CSS, then validate the HTML and CSS and create a Readme file.
