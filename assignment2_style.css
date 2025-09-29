@@ -1,10 +1,10 @@
-/* Reset some defaults */
+/* ========== Reset defaults ========== */
 body, h1, h2, p, ul {
   margin: 0;
   padding: 0;
 }
 
-/* General Page Styles */
+/* ========== General Page Styles ========== */
 body {
   font-family: Verdana, sans-serif;
   background: linear-gradient(to right, #f8f9fa, #e3f2fd);
@@ -12,9 +12,9 @@ body {
   line-height: 1.6;
 }
 
-/* Header */
+/* ========== Header ========== */
 header {
-  background-color: #1565c0;
+  background-color: #1565c0; /* dark blue */
   color: white;
   text-align: center;
   padding: 20px;
@@ -25,19 +25,19 @@ header {
   font-size: 1.1em;
 }
 
-/* Sections */
+/* ========== Main Sections ========== */
 main {
   padding: 20px;
 }
 
 h2 {
-  color: #0d47a1;
+  color: #0d47a1; /* darker blue */
   margin-top: 20px;
   border-bottom: 2px solid #90caf9;
   padding-bottom: 5px;
 }
 
-/* List Styling */
+/* ========== List Styling ========== */
 ul {
   margin: 15px 0;
   padding-left: 20px;
@@ -47,7 +47,7 @@ ul li {
   margin-bottom: 8px;
 }
 
-/* Image Section */
+/* ========== Image Section ========== */
 figure {
   text-align: center;
   margin: 20px auto;
@@ -65,7 +65,7 @@ figcaption {
   margin-top: 8px;
 }
 
-/* Footer */
+/* ========== Footer ========== */
 footer {
   background-color: #1565c0;
   color: white;
